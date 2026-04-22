@@ -1,0 +1,8 @@
+v0.1.0-alpha
+raspberry-pi
+opencv
+computer-vision
+video-streaming
+flask
+iot
+python
